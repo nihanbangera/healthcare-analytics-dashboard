@@ -20,7 +20,7 @@ This project analyzes healthcare encounter, coverage, cost, and patient behavior
 - Encounter Class Distribution
 - Encounter Duration Analysis
 
-### 2. Cost & Coverage Insights ![Cost & Coverage Insights](cost-coverage-insights.png)
+### 2. Cost & Coverage Insights ![Cost & Coverage Insights](Cost%20and%20Coverage%20Dashboard%20Screenshot.png)
 - Coverage Status Analysis
 - Top 10 Frequent Procedures
 - Highest Cost Procedures
