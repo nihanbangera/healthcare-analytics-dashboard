@@ -15,18 +15,19 @@ This project analyzes healthcare encounter, coverage, cost, and patient behavior
 
 ## Dashboard Pages
 
-### 1. Encounters Overview (Encounters Overview Dashboard Screenshot.png)
+### 1. Encounters Overview ![Encounters Overview](Encounters%20Overview%20Dashboard%20Screenshot.png)
 - Total Encounters by Year
 - Encounter Class Distribution
 - Encounter Duration Analysis
 
-### 2. Cost & Coverage Insights
+### 2. Cost & Coverage Insights ![Cost & Coverage Insights](Cost%20and%20Coverage%20Dashboard%20Screenshot.png)
+
 - Coverage Status Analysis
 - Top 10 Frequent Procedures
 - Highest Cost Procedures
 - Average Claim Cost by Payer
 
-### 3. Patient Behavior Analysis
+### 3. Patient Behavior Analysis ![Patient Behavior Analysis](Patient%20Behaviour%20Analysis%20Screenshot.png)
 - Unique Patients Admitted by Quarter
 - Readmissions Within 30 Days
 - Top 10 Patients by Readmissions
