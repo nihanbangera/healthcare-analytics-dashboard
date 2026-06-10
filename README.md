@@ -15,7 +15,7 @@ This project analyzes healthcare encounter, coverage, cost, and patient behavior
 
 ## Dashboard Pages
 
-### 1. Encounters Overview
+### 1. Encounters Overview (Encounters Overview Dashboard Screenshot.png)
 - Total Encounters by Year
 - Encounter Class Distribution
 - Encounter Duration Analysis
